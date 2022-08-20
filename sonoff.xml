@@ -1,0 +1,4 @@
+ 
+ <item>allume la lampe du bureau<tag>data.ipsonoff="192.168.x.x";data.cmdsonoff="cmnd=Power%20On"</tag></item>
+
+ <item>coupe la lampe du bureau<tag>data.ipsonoff="192.168.x.x";data.cmdsonoff="cmnd=Power%20off"</tag></item>
